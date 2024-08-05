@@ -1,0 +1,5 @@
+package com.aurionpro.creational.factory.abstractmodel;
+
+public interface ICurrentAccountFactory {
+
+}

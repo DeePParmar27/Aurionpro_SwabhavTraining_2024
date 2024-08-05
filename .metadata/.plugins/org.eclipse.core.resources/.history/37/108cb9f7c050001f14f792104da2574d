@@ -1,0 +1,5 @@
+package com.aurionpro.behavioural.StrategyPattern.test;
+
+public class OperationTest {
+
+}

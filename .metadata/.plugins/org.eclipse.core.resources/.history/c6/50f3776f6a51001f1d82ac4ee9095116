@@ -1,0 +1,23 @@
+package com.aurionpro.model;
+
+public class Player {
+ 
+	public char mark ;
+	public char matrix[][] ;
+
+	public Player(char mark) {
+		super();
+		this.mark = mark;
+	}
+
+	public char getMark() {
+		return mark;
+	}
+
+	public void setMark(int i , int j) {
+		matrix[i][j] = mark ;
+	}
+	
+	
+
+}

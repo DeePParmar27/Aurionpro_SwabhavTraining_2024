@@ -1,0 +1,60 @@
+	for(int i = 0 ; i < bank.length ;i++) {
+	   
+		   System.out.println("Choose Option :");
+		   System.out.println("1. Deposite ");
+		   System.out.println("2. Withdraw");
+		   
+//		   System.out.println("Select the action :");
+//		   int option = sc.nextInt() ;
+//			
+//		   switch(option) {
+//		   case 1:
+//			   System.out.print("Enter Account Number");
+//				int accoutNumber = sc.nextInt();
+//				System.out.print("Enter Your Name : ");
+//				String name = sc.next();
+//				System.out.print("Enter Balance");
+//				int accoutBalance = sc.nextInt();
+//				System.out.print("Enter Account Type : ");
+//				String type = sc.next();
+//				
+//				bank[i]=new Bank(accoutBalance,name,accoutBalance,type);
+//				System.out.println("Enter Amount to credit :");
+//				int amount = sc.nextInt();
+//				bank[i].credit(amount);
+//				   System.out.println("Choose Option :");
+//				   System.out.println("1. Deposite ");
+//				   System.out.println("2. Withdraw");
+//				   
+//				   System.out.println("Select the action :");
+//				   option = sc.nextInt() ;
+//		   case 2:
+//			   System.out.print("Enter Account Number");
+//				int accoutNumber1 = sc.nextInt();
+//				System.out.print("Enter Your Name : ");
+//				String name1 = sc.next();
+//				System.out.print("Enter Balance");
+//				int accoutBalance1 = sc.nextInt();
+//				System.out.print("Enter Account Type : ");
+//				String type1 = sc.next();
+//				
+//				System.out.println("Enter Amount to credit :");
+//				int amount1 = sc.nextInt();
+//				bank[i].debit(amount1);
+//				bank[i]=new Bank(accoutBalance1,name1,accoutBalance1,type1);
+//			default :
+//				System.out.println("Enter right option");
+//			   
+//		   }
+//		
+//		System.out.print("Enter Account Number");
+//		int accoutNumber = sc.nextInt();
+//		System.out.print("Enter Your Name : ");
+//		String name = sc.next();
+//		System.out.print("Enter Balance");
+//		int accoutBalance = sc.nextInt();
+//		System.out.print("Enter Account Type : ");
+//		String type = sc.next();
+//		
+//		bank[i]=new Bank(accoutBalance,name,accoutBalance,type);
+//	}

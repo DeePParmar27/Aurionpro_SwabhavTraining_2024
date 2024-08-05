@@ -1,0 +1,24 @@
+package com.aurionpro.structural.Decorator.model;
+
+import javax.print.DocFlavor.STRING;
+
+public class PremiumHat implements IHat {
+
+	@Override
+	public String getName() {
+		System.out.println("This is Premium Hat");
+		
+	}
+
+	@Override
+	public String getPrice() {
+        System.out.println("1000");		
+	}
+
+	@Override
+	public String getDescription() {
+		System.out.println("Higher Ended Hats");
+		
+	}
+
+}

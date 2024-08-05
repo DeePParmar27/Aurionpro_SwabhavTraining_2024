@@ -1,0 +1,22 @@
+package com.aurionpro.model;
+
+public class Player {
+ 
+	public String mark ;
+
+	public Player(String mark) {
+		super();
+		this.mark = mark;
+	}
+
+	public String getMark() {
+		return mark;
+	}
+
+	public void setMark() {
+		this.mark = mark;
+	}
+	
+	
+
+}

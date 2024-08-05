@@ -1,0 +1,23 @@
+package com.aurionpro.structural.Composite.model;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Composite implements Components {
+
+	
+	List<Components> components = new ArrayList<>();
+	
+	public void addComponents(Components c) {
+		components.add(c);
+	}
+	
+	@Override
+	public void showPrice() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+
+}

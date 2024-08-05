@@ -1,0 +1,12 @@
+package com.aurionpro.behavioural.Account.test;
+
+public class EmailNotifier implements INotifier {
+
+	@Override
+	public void notify(Account acc , String Method) {
+		System.out.println("Amount is "+Method);
+		System.out.println("Your current account Balance : "+acc.getBalance());
+		
+	}
+
+}

@@ -1,0 +1,8 @@
+package com.aurionpro.model;
+
+public class Operation {
+
+	int addition(int a , int b) {
+		return a + b ;
+	}
+}

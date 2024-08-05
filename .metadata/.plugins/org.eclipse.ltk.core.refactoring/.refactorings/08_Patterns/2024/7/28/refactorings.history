@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring accessors="true" comment="Delete element from project &apos;08_Patterns&apos;&#x0D;&#x0A;- Original project: &apos;08_Patterns&apos;&#x0D;&#x0A;- Original element: &apos;08_Patterns/src/om.aurionpro.test&apos;" description="Delete element" element1="/src&lt;om.aurionpro.test" element2="/src&lt;om.aurionpro" element3="/src&lt;om" elements="3" flags="589830" id="org.eclipse.jdt.ui.delete" resources="0" stamp="1720774754534" subPackages="false" version="1.0"/>
+</session>

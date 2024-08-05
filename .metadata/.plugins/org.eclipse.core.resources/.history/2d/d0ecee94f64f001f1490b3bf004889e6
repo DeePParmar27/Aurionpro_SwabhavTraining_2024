@@ -1,0 +1,5 @@
+package com.aurionpro.structural.car.model;
+
+public class CarService {
+
+}

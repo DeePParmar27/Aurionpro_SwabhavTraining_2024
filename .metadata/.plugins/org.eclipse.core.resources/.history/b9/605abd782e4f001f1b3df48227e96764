@@ -1,0 +1,6 @@
+package com.aurionpro.creational.factory.abstractmodel;
+
+public interface ISavingAccountFactory {
+	public IAccount accountOpening(); 
+
+}

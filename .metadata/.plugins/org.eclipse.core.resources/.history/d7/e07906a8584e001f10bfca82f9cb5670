@@ -1,0 +1,12 @@
+package com.aurionpro.isp.violation.test;
+
+import com.aurionpro.isp.violation.model.Iworker;
+import com.aurionpro.isp.violation.model.Labour;
+
+public class workerTest {
+	public static void main(String[] args) {
+		Iworker labour = new Labour();
+		labour.drink();
+	}
+
+}

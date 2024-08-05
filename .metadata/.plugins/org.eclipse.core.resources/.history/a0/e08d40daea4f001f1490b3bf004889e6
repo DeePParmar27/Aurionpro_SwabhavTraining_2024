@@ -1,0 +1,32 @@
+package com.aurionpro.structural.facade.model;
+
+public class SettingUp implements IDVDplayer , projector , ISoundSystem {
+
+	@Override
+	public void on() {
+		System.out.println("ON the DVD player");
+		System.out.println("ON the projector");
+		System.out.println("ON the SoundSystem");		
+	}
+
+	@Override
+	public void off() {
+		System.out.println("OFF the DVD player");
+		System.out.println("OFF the projector");
+		System.out.println("OFF the SoundSystem");			
+	}
+
+	@Override
+	public void start() {
+		System.out.println("Started the Movie");
+		
+	}
+
+	@Override
+	public void stop() {
+		System.out.println("Stop the Movie");
+		
+		
+	}
+
+}

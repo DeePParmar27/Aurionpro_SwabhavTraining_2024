@@ -1,0 +1,11 @@
+package com.aurionpro.behavioural.Account.test;
+
+public class EmailNotifier implements INotifier {
+
+	@Override
+	public void notify(int Account) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

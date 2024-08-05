@@ -1,0 +1,11 @@
+package com.aurionpro.behavioural.StrategyPattern.test;
+
+import com.aurionpro.behavioural.StrategyPattern.model.AddOperation;
+import com.aurionpro.behavioural.StrategyPattern.model.OperationStrategy;
+
+public class OperationTest {
+public static void main(String[] args) {
+	OperationStrategy op = new OperationStrategy(new AddOperation());
+	op.doOperation(12 , 2);
+}
+}

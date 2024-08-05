@@ -1,0 +1,14 @@
+package com.aurionpro.behavioural.Account.test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class AccountTest {
+	public static void main(String[] args) {
+		
+		List<INotifier> notifiers = new ArrayList<INotifier>() ;
+		notifiers.add(new EmailNotifier());
+		Account acc = new Account(12121, "Deep", 1000, notifiers);
+	}
+
+}

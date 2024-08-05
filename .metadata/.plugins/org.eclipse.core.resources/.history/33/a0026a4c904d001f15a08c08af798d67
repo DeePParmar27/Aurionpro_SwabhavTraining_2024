@@ -1,0 +1,17 @@
+package com.aurionpro.test;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import com.aurionpro.model.Account;
+
+public class AccountTest {
+	public static void main(String[] args) {
+		
+		List<Account> account = new ArrayList<Account>();
+		
+		account1 = new Account(1233, "Deep", 1200);
+		
+	}
+
+}

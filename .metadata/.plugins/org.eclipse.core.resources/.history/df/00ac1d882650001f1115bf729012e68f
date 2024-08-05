@@ -1,0 +1,10 @@
+package com.aurionpro.structural.Decorator.model;
+
+public interface IHat {
+
+	public void getName();
+	public void getPrice();
+	public void getDescription();
+	
+	
+}
