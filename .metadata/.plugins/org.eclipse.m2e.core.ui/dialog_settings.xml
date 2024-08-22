@@ -7,6 +7,11 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="42_springCore2_app"/>
+			<item value="41_SpringCore_app"/>
+			<item value="41"/>
+			<item value="29_TicTakTesting"/>
+			<item value="28_TicTakTesting"/>
 			<item value="28_UnitTesting"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -45,6 +50,8 @@
 	</section>
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="D:\AURIONPRO\40_MiniProject_BankApplication_App\WebContent\newCustomer.jsp"/>
+			<item value="D:\AURIONPRO\28_UnitTesting\src\test\java\com\aurionpro\model\StudentTest.java"/>
 			<item value="D:\AURIONPRO\27_TicTakToe\src\com\aurionpro\test\GameTest.java"/>
 		</list>
 		<list key="projectNameTemplate">

@@ -1,5 +1,0 @@
-package com.aurionpro.behavioural.stateDesignPattern.model;
-
-public interface IStatePacket {
-
-}

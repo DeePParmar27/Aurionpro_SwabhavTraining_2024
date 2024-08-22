@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/22_Collection/src/com/aurionpro/list/test/employeeTest.java"/>
+<listEntry value="/32_Employee/src/com/aurionpro/test/employeeTest.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
 </listAttribute>
-<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.aurionpro.list.test.employeeTest"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="22_Collection"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.aurionpro.test.employeeTest"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="32_Employee"/>
 </launchConfiguration>

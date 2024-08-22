@@ -1,8 +1,0 @@
-package com.aurionpro.behavioural.Account.test;
-
-public interface InsufficientBalanceException {
-
-	public String getMessage() {
-		return "There is insufficient Balance";
-	}
-}

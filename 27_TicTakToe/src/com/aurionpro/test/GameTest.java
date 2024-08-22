@@ -48,12 +48,7 @@ public class GameTest {
              pattern.crossLineMatrix(matrix, gameOver, "Player-1", 'X', player1);         
              pattern.crossLineReverse(matrix, gameOver, "Player-1", 'X', player1);			
 
-     		for (int i = 0; i < 3; i++) {
-    			for (int j = 0; j < 3; j++) {
-    				matrix[i][j] = '_'
-    			}
-    		}
-			
+
 
 			if (player1.getGameOver() == true)
 				break;
